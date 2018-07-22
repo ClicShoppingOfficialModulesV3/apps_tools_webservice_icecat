@@ -18,7 +18,7 @@ Activate the module in Tools
 Go to Catalog /products and click on the icon close to SKU.
 
 More Informations on Marketplace
-link : 
+link : https://www.clicshopping.org/forum/files/file/41-apps-tools-webserice-icecat/
 
 ![icecat](https://github.com/ClicShoppingOfficialModulesV3/apps_tools_webservice_icecat/blob/master/ModuleInfosJson/icecat.png)
 
