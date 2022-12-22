@@ -1,0 +1,2 @@
+cfg_icecat_login_title = Login
+cfg_icecat_login_description = Veuillez insérer votre login IceCat

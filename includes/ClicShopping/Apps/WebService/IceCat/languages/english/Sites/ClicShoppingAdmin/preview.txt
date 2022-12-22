@@ -1,0 +1,3 @@
+
+text_info_new_export = Preview
+button_create = Insert

@@ -1,0 +1,1 @@
+button_icecat_google_ai = IceCat Google AI

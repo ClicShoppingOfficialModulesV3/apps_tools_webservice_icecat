@@ -1,0 +1,2 @@
+cfg_icecat_login_title = User Name
+cfg_icecat_login_description = Insert your IceCat username

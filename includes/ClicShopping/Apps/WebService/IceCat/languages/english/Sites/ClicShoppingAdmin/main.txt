@@ -1,0 +1,43 @@
+heading_title = IceCat
+module_ic_title = IceCat
+module_ic_short_title = IceCat
+
+text_icecat = IceCat
+text_configure =  configure App Module
+
+text_intro = This app allow you to include an IceCat form. <br /><br />
+- Click on Configure to access / install or uninstall the app.<br />
+- The App is located in WebService<br />
+
+module_ic_introduction = The install process create the database settings for this module and the access menu
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_cancel = Cancel
+button_icecat = IceCat
+button_reset = Reset
+button_analyse = Analyse
+button_update = Update
+button_listing = Listing
+button_configure = Configure
+button_search = Search
+button_insert = Insert
+button_new = New
+button_icecat_google_ai = Google IceCat
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.
+
+alert_error_message = Error, please choose a page type
+alert_item_deleted = Item deleted

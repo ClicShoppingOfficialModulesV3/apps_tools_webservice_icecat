@@ -1,0 +1,778 @@
+<!--
+  ~
+  ~  @copyright 2008 - https://www.clicshopping.org
+  ~  @Brand : ClicShopping(Tm) at Inpi all right Reserved
+  ~  @Licence GPL 2 & MIT
+  ~  @licence MIT - Portion of osCommerce 2.4
+  ~  @Info : https://www.clicshopping.org/forum/trademark/
+  ~
+  -->
+
+<ICECAT-interface xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://data.icecat.biz/xsd/ICECAT-interface_response.xsd">
+   <Product Code="1" HighPic="http://images.icecat.biz/img/gallery/34524578_5697616821.jpg" HighPicHeight="600" HighPicSize="218458" HighPicWidth="600" ID="34524578" LowPic="http://images.icecat.biz/img/gallery_lows/34524578_5697616821.jpg" LowPicHeight="200" LowPicSize="35923" LowPicWidth="200" Name="QM98F" Pic500x500="http://images.icecat.biz/img/gallery_mediums/34524578_5697616821.jpg" Pic500x500Height="500" Pic500x500Size="196208" Pic500x500Width="500" Prod_id="LH98QMFPLGC" Quality="ICECAT" ReleaseDate="2016-12-03" Source="http://www.samsung.com/us/system/consumer/product/lh/98/qm/lh98qmfplgcgo/600_QM98F_001_Front.jpg" ThumbPic="http://images.icecat.biz/img/gallery_thumbs/34524578_5697616821.jpg" ThumbPicSize="2206" Title="Samsung QM98F Digital signage flat panel 98&quot; LED 4K Ultra HD Black">
+   <CategoryFeatureGroup ID="10074" No="100"><FeatureGroup ID="5"><Name ID="4867" langid="1" Value="Display"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10080" No="90"><FeatureGroup ID="9"><Name ID="4977" langid="1" Value="Audio"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10083" No="40"><FeatureGroup ID="12"><Name ID="4995" langid="1" Value="Ports &amp; interfaces"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10073" No="-1"><FeatureGroup ID="14"><Name ID="5023" langid="1" Value="Weight &amp; dimensions"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10081" No="20"><FeatureGroup ID="27"><Name ID="5049" langid="1" Value="Power"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10084" No="10"><FeatureGroup ID="28"><Name ID="5067" langid="1" Value="Operational conditions"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10871" No="-70"><FeatureGroup ID="0"><Name ID="5073" langid="1" Value="Technical details"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10078" No="-10"><FeatureGroup ID="67"><Name ID="27423" langid="1" Value="Packaging data"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10101" No="-100"><FeatureGroup ID="146"><Name ID="624346" langid="1" Value="Other features"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10869" No="80"><FeatureGroup ID="148"><Name ID="630457" langid="1" Value="Design"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="10870" No="50"><FeatureGroup ID="184"><Name ID="1218765" langid="1" Value="Performance"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="23916" No="0"><FeatureGroup ID="185"><Name ID="1219853" langid="1" Value="Features"/></FeatureGroup></CategoryFeatureGroup><CategoryFeatureGroup ID="16263" No="2"><FeatureGroup ID="199"><Name ID="2020585" langid="1" Value="Computer system"/></FeatureGroup></CategoryFeatureGroup>
+   <Category ID="2672"><Name ID="1133925" langid="1" Value="signage displays"/></Category>
+   <EANCode EAN="8806088606101"/>
+   <FeatureLogo ID="4294967299" Feature_ID="838" Value="Y" LogoPic="http://images.icecat.biz/img/feature_logo/4-8210.png" Width="195" Height="200" Size="35338">
+   </FeatureLogo>
+   <FeatureLogo ID="4294967303" Feature_ID="6694" Value="Y" LogoPic="http://images.icecat.biz/img/feature_logo/8-2276.png" Width="200" Height="200" Size="28431">
+   </FeatureLogo>
+
+   <ReasonsToBuy/>
+   <BulletPoints/>
+   <ProductBundled/>
+   <ProductDescription ID="56060192" LongDesc="&lt;b&gt;AT A GLANCE&lt;/b&gt;\nWith stunning 4K UHD quality our QM-F Series commercial displays provide high pixel density, fine detail and exceptional stopping power. All with multi-screen support and reliable 24/7 continuous use to meet around the clock operating requirements from retail spaces and public areas to corporate boardrooms and more. And a non-glare panel with 500nit brightness offers improved visibility of your message.\n\n- Multi-screen splitting for displaying multiple messages and great videoconferencing\n- Non-glare panel with 500nit brightness offers improved visibility of your message\n- Reliable 24/7 continuous run-time to meet around the clock business operating requirements\n- Stunning life-like image quality with 4K UHD resolution\n\n&lt;b&gt;Multi-Screen Delivers Multiple Messages&lt;/b&gt;\n\nThe Picture by Picture function allows you to display up to 4 content feeds at once, each supporting Full HD 1080p resolution. It’s ideal for displaying multiple messages in retail advertising or for videoconferencing in corporate scenarios. \n\n&lt;b&gt;Non-Glare Panel for Improved Visibility&lt;/b&gt;\n\nThe non-glare panel features 500nit brightness to improve visibility of your message. \n\n&lt;b&gt;Reliable 24/7 Around the Clock Operation&lt;/b&gt;\n\nInnovative Samsung cooling technologies allow your message to be displayed with highly reliable 24/7 continuous operation. So your business can meet 24/7 operating requirements in venues ranging from retail stores and public spaces to Command &amp; Control facilities. \n\n&lt;b&gt;Stunning 4K UHD Picture Quality&lt;/b&gt;\n\n3840 x 2160 UHD resolution (4x the number pixels of Full HD 1080p) delivers life-like image quality. Experience a high-impact way to communicate in retail spaces, hospitality, corporate boardrooms, healthcare environments and more." ManualPDFSize="0" ManualPDFURL="" PDFSize="0" PDFURL="" ShortDesc="3840 x 2160 4K UHD, LED, 500 cd/m2, 8 ms, 20 W, DVI-I, HDMI x 4, DP x 2, RS232C, RJ-45, 219.202 cm (86.3 &quot;) x 49.2&quot; x 2.8&quot;, Black" URL="http://www.samsung.com/us/business/displays/digital-signage/LH98QMFPLGC/GO#seeMore" WarrantyInfo="3 Years Onsite (Parts / Labor / Backlight)" langid="1"/>
+   
+   
+    <ProductFeature Localized="0" ID="241810022" Local_ID="0" Value="98" CategoryFeature_ID="87016" CategoryFeatureGroup_ID="10074" No="10100500" Presentation_Value="2.49 m (98&quot;)" Translated="0" Mandatory="1" Searchable="1">
+      <LocalValue Value="2.49">
+      <Measure ID="54">
+        <Signs><Sign ID="37" langid="1"><![CDATA[m]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="944">
+        <Measure ID="16" Sign="">
+          <Signs><Sign ID="11" langid="1"><![CDATA["]]></Sign></Signs>
+        </Measure>
+        <Name ID="3429" langid="1" Value="Display diagonal"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810010" Local_ID="0" Value="LED" CategoryFeature_ID="87015" CategoryFeatureGroup_ID="10074" No="10100490" Presentation_Value="LED" Translated="1" Mandatory="1" Searchable="1">
+      <LocalValue Value="LED">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="9104">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="761213" langid="1" Value="Display type"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810024" Local_ID="0" Value="3840 x 2160" CategoryFeature_ID="87018" CategoryFeatureGroup_ID="10074" No="10100460" Presentation_Value="3840 x 2160 pixels" Translated="0" Mandatory="1" Searchable="1">
+      <LocalValue Value="3840 x 2160">
+      <Measure ID="39">
+        <Signs><Sign ID="23" langid="1"><![CDATA[pixels]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1585">
+        <Measure ID="39" Sign="">
+          <Signs><Sign ID="23" langid="1"><![CDATA[pixels]]></Sign></Signs>
+        </Measure>
+        <Name ID="4927" langid="1" Value="Display resolution"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810026" Local_ID="0" Value="500" CategoryFeature_ID="87020" CategoryFeatureGroup_ID="10074" No="10100440" Presentation_Value="500 cd/m²" Translated="0" Mandatory="1" Searchable="1">
+      <LocalValue Value="500">
+      <Measure ID="43">
+        <Signs><Sign ID="27" langid="1"><![CDATA[cd/m²]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1389">
+        <Measure ID="43" Sign="">
+          <Signs><Sign ID="27" langid="1"><![CDATA[cd/m²]]></Sign></Signs>
+        </Measure>
+        <Name ID="4319" langid="1" Value="Display brightness"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810013" Local_ID="0" Value="4K Ultra HD" CategoryFeature_ID="87084" CategoryFeatureGroup_ID="10074" No="10100420" Presentation_Value="4K Ultra HD" Translated="0" Mandatory="1" Searchable="1">
+      <LocalValue Value="4K Ultra HD">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="11424">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="1045472" langid="1" Value="HD type"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810367" Local_ID="0" Value="8" CategoryFeature_ID="87085" CategoryFeatureGroup_ID="10074" No="100360" Presentation_Value="8 ms" Translated="0" Mandatory="1" Searchable="0">
+      <LocalValue Value="8">
+      <Measure ID="27">
+        <Signs><Sign ID="1" langid="1"><![CDATA[ms]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1516">
+        <Measure ID="27" Sign="">
+          <Signs><Sign ID="1" langid="1"><![CDATA[ms]]></Sign></Signs>
+        </Measure>
+        <Name ID="4751" langid="1" Value="Response time"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810365" Local_ID="0" Value="4000:1" CategoryFeature_ID="87026" CategoryFeatureGroup_ID="10074" No="100300" Presentation_Value="4000:1" Translated="1" Mandatory="0" Searchable="0">
+      <LocalValue Value="4000:1">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="34">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="1383" langid="1" Value="Contrast ratio (typical)"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810346" Local_ID="0" Value="178" CategoryFeature_ID="87028" CategoryFeatureGroup_ID="10074" No="100290" Presentation_Value="178°" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="178">
+      <Measure ID="32">
+        <Signs><Sign ID="16" langid="1"><![CDATA[°]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="37">
+        <Measure ID="32" Sign="">
+          <Signs><Sign ID="16" langid="1"><![CDATA[°]]></Sign></Signs>
+        </Measure>
+        <Name ID="1393" langid="1" Value="Viewing angle, horizontal"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810350" Local_ID="0" Value="178" CategoryFeature_ID="87029" CategoryFeatureGroup_ID="10074" No="100289" Presentation_Value="178°" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="178">
+      <Measure ID="32">
+        <Signs><Sign ID="16" langid="1"><![CDATA[°]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="38">
+        <Measure ID="32" Sign="">
+          <Signs><Sign ID="16" langid="1"><![CDATA[°]]></Sign></Signs>
+        </Measure>
+        <Name ID="1395" langid="1" Value="Viewing angle, vertical"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810442" Local_ID="0" Value="3840 x 2160" CategoryFeature_ID="87119" CategoryFeatureGroup_ID="10074" No="100000" Presentation_Value="3840 x 2160" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="3840 x 2160">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="4850">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="61312" langid="1" Value="Supported graphics resolutions"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810403" Local_ID="0" Value="2160p" CategoryFeature_ID="87120" CategoryFeatureGroup_ID="10074" No="100000" Presentation_Value="2160p" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="2160p">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="4851">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="61313" langid="1" Value="Supported video modes"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810405" Local_ID="0" Value="16:9" CategoryFeature_ID="87127" CategoryFeatureGroup_ID="10074" No="100000" Presentation_Value="16:9" Translated="1" Mandatory="0" Searchable="0">
+      <LocalValue Value="16:9">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="11417">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="1045266" langid="1" Value="Native aspect ratio"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810473" Local_ID="0" Value="Y" CategoryFeature_ID="87049" CategoryFeatureGroup_ID="10080" No="100200" Presentation_Value="Y" Translated="1" Mandatory="1" Searchable="0">
+      <LocalValue Value="Y">
+      <Measure ID="26">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="2433">
+        <Measure ID="26" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="12525" langid="1" Value="Built-in speaker(s)"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810474" Local_ID="0" Value="2" CategoryFeature_ID="87050" CategoryFeatureGroup_ID="10080" No="100000" Presentation_Value="2" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="2">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="10183">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="879403" langid="1" Value="Number of speakers"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810476" Local_ID="0" Value="20" CategoryFeature_ID="87051" CategoryFeatureGroup_ID="10080" No="100000" Presentation_Value="20 W" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="20">
+      <Measure ID="44">
+        <Signs><Sign ID="28" langid="1"><![CDATA[W]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1854">
+        <Measure ID="44" Sign="">
+          <Signs><Sign ID="28" langid="1"><![CDATA[W]]></Sign></Signs>
+        </Measure>
+        <Name ID="5709" langid="1" Value="RMS rated power"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="248681742" Local_ID="0" Value="Digital signage flat panel" CategoryFeature_ID="212804" CategoryFeatureGroup_ID="10869" No="10100510" Presentation_Value="Digital signage flat panel" Translated="0" Mandatory="1" Searchable="1">
+      <LocalValue Value="Digital signage flat panel">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="5146">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="71312" langid="1" Value="Design"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810579" Local_ID="0" Value="Black" CategoryFeature_ID="87019" CategoryFeatureGroup_ID="10869" No="10100400" Presentation_Value="Black" Translated="1" Mandatory="1" Searchable="1">
+      <LocalValue Value="Black">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1766">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="5487" langid="1" Value="Colour of product"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810886" Local_ID="0" Value="Y" CategoryFeature_ID="87094" CategoryFeatureGroup_ID="10869" No="99902" Presentation_Value="Y" Translated="1" Mandatory="1" Searchable="0">
+      <LocalValue Value="Y">
+      <Measure ID="26">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="6694">
+        <Measure ID="26" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="247763" langid="1" Value="RoHS compliance"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810859" Local_ID="0" Value="Y" CategoryFeature_ID="102550" CategoryFeatureGroup_ID="10869" No="100200" Presentation_Value="Y" Translated="1" Mandatory="0" Searchable="0">
+      <LocalValue Value="Y">
+      <Measure ID="26">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="16767">
+        <Measure ID="26" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="1213583" langid="1" Value="VESA mounting"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810868" Local_ID="0" Value="900 x 600" CategoryFeature_ID="87047" CategoryFeatureGroup_ID="10869" No="100199" Presentation_Value="900 x 600 mm" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="900 x 600">
+      <Measure ID="24">
+        <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="4037">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="56168" langid="1" Value="VESA mounting interfaces"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810835" Local_ID="0" Value="15.2" CategoryFeature_ID="87278" CategoryFeatureGroup_ID="10869" No="100000" Presentation_Value="1.52 cm" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="1.52">
+      <Measure ID="34">
+        <Signs><Sign ID="18" langid="1"><![CDATA[cm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="8040">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="620609" langid="1" Value="Bezel width (bottom)"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810847" Local_ID="0" Value="15.2" CategoryFeature_ID="87279" CategoryFeatureGroup_ID="10869" No="100000" Presentation_Value="1.52 cm" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="1.52">
+      <Measure ID="34">
+        <Signs><Sign ID="18" langid="1"><![CDATA[cm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="8038">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="620527" langid="1" Value="Bezel width (side)"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810830" Local_ID="0" Value="15.2" CategoryFeature_ID="87280" CategoryFeatureGroup_ID="10869" No="100000" Presentation_Value="1.52 cm" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="1.52">
+      <Measure ID="34">
+        <Signs><Sign ID="18" langid="1"><![CDATA[cm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="8039">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="620568" langid="1" Value="Bezel width (top)"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241811161" Local_ID="0" Value="EMC" CategoryFeature_ID="87023" CategoryFeatureGroup_ID="10869" No="99900" Presentation_Value="EMC" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="EMC">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="249">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="1865" langid="1" Value="Certification"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241811106" Local_ID="0" Value="Y" CategoryFeature_ID="87092" CategoryFeatureGroup_ID="10870" No="99905" Presentation_Value="Y" Translated="1" Mandatory="0" Searchable="0">
+      <LocalValue Value="Y">
+      <Measure ID="26">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="775">
+        <Measure ID="26" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="3081" langid="1" Value="Plug and Play"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810460" Local_ID="0" Value="Y" CategoryFeature_ID="87024" CategoryFeatureGroup_ID="10083" No="10100500" Presentation_Value="Y" Translated="1" Mandatory="1" Searchable="1">
+      <LocalValue Value="Y">
+      <Measure ID="26">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1347">
+        <Measure ID="26" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="4235" langid="1" Value="Ethernet LAN"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810533" Local_ID="0" Value="4" CategoryFeature_ID="87083" CategoryFeatureGroup_ID="10083" No="10100120" Presentation_Value="4" Translated="1" Mandatory="1" Searchable="1">
+      <LocalValue Value="4">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="3566">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="39496" langid="1" Value="HDMI ports quantity"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810488" Local_ID="0" Value="Y" CategoryFeature_ID="87066" CategoryFeatureGroup_ID="10083" No="100100" Presentation_Value="Y" Translated="1" Mandatory="1" Searchable="0">
+      <LocalValue Value="Y">
+      <Measure ID="26">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="2319">
+        <Measure ID="26" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="11997" langid="1" Value="DVI port"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241811179" Local_ID="0" Value="1" CategoryFeature_ID="87077" CategoryFeatureGroup_ID="10083" No="100020" Presentation_Value="1" Translated="1" Mandatory="1" Searchable="0">
+      <LocalValue Value="1">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="2312">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="11976" langid="1" Value="Ethernet LAN (RJ-45) ports"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810500" Local_ID="0" Value="1" CategoryFeature_ID="87068" CategoryFeatureGroup_ID="10083" No="100098" Presentation_Value="1" Translated="1" Mandatory="0" Searchable="0">
+      <LocalValue Value="1">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="2940">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="27807" langid="1" Value="DVI-I ports quantity"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810530" Local_ID="0" Value="2" CategoryFeature_ID="87329" CategoryFeatureGroup_ID="10083" No="100000" Presentation_Value="2" Translated="1" Mandatory="0" Searchable="0">
+      <LocalValue Value="2">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="6611">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="240711" langid="1" Value="DisplayPorts quantity"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810544" Local_ID="0" Value="Y" CategoryFeature_ID="94292" CategoryFeatureGroup_ID="10083" No="100000" Presentation_Value="Y" Translated="1" Mandatory="0" Searchable="0">
+      <LocalValue Value="Y">
+      <Measure ID="26">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="14428">
+        <Measure ID="26" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="1133202" langid="1" Value="RS-232C"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810567" Local_ID="0" Value="1" CategoryFeature_ID="142586" CategoryFeatureGroup_ID="10083" No="100000" Presentation_Value="1" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="1">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="8717">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="733652" langid="1" Value="Remote (IR) input"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810586" Local_ID="0" Value="1" CategoryFeature_ID="142587" CategoryFeatureGroup_ID="10083" No="100000" Presentation_Value="1" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="1">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="8718">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="733693" langid="1" Value="Remote (IR) output"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810732" Local_ID="0" Value="Y" CategoryFeature_ID="87093" CategoryFeatureGroup_ID="10081" No="99903" Presentation_Value="Y" Translated="1" Mandatory="1" Searchable="0">
+      <LocalValue Value="Y">
+      <Measure ID="26">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="838">
+        <Measure ID="26" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="3207" langid="1" Value="Energy Star certified"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810788" Local_ID="0" Value="100 - 240" CategoryFeature_ID="87055" CategoryFeatureGroup_ID="10081" No="100020" Presentation_Value="100 - 240" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="100 - 240">
+      <Measure ID="42">
+        <Signs><Sign ID="26" langid="1"><![CDATA[V]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="8491">
+        <Measure ID="42" Sign="">
+          <Signs><Sign ID="26" langid="1"><![CDATA[V]]></Sign></Signs>
+        </Measure>
+        <Name ID="711418" langid="1" Value="AC input voltage"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810793" Local_ID="0" Value="50/60" CategoryFeature_ID="87056" CategoryFeatureGroup_ID="10081" No="100019" Presentation_Value="50/60" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="50/60">
+      <Measure ID="36">
+        <Signs><Sign ID="20" langid="1"><![CDATA[Hz]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="8484">
+        <Measure ID="36" Sign="">
+          <Signs><Sign ID="20" langid="1"><![CDATA[Hz]]></Sign></Signs>
+        </Measure>
+        <Name ID="711064" langid="1" Value="AC input frequency"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810723" Local_ID="0" Value="0.5" CategoryFeature_ID="87213" CategoryFeatureGroup_ID="10081" No="100000" Presentation_Value="0.5 W" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="0.5">
+      <Measure ID="44">
+        <Signs><Sign ID="28" langid="1"><![CDATA[W]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="4961">
+        <Measure ID="44" Sign="">
+          <Signs><Sign ID="28" langid="1"><![CDATA[W]]></Sign></Signs>
+        </Measure>
+        <Name ID="61601" langid="1" Value="Power consumption (sleep)"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810726" Local_ID="0" Value="0.5" CategoryFeature_ID="87214" CategoryFeatureGroup_ID="10081" No="100000" Presentation_Value="0.5 W" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="0.5">
+      <Measure ID="44">
+        <Signs><Sign ID="28" langid="1"><![CDATA[W]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="2034">
+        <Measure ID="44" Sign="">
+          <Signs><Sign ID="28" langid="1"><![CDATA[W]]></Sign></Signs>
+        </Measure>
+        <Name ID="9098" langid="1" Value="Power consumption (off)"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241811138" Local_ID="0" Value="0 - 40" CategoryFeature_ID="87088" CategoryFeatureGroup_ID="10084" No="100010" Presentation_Value="0 - 40 °C" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="0 - 40">
+      <Measure ID="65">
+        <Signs><Sign ID="48" langid="1"><![CDATA[°C]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1112">
+        <Measure ID="65" Sign="">
+          <Signs><Sign ID="48" langid="1"><![CDATA[°C]]></Sign></Signs>
+        </Measure>
+        <Name ID="3765" langid="1" Value="Operating temperature (T-T)"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241811141" Local_ID="0" Value="10 - 80" CategoryFeature_ID="87089" CategoryFeatureGroup_ID="10084" No="100009" Presentation_Value="10 - 80%" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="10 - 80">
+      <Measure ID="64">
+        <Signs><Sign ID="47" langid="1"><![CDATA[%]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="703">
+        <Measure ID="64" Sign="">
+          <Signs><Sign ID="47" langid="1"><![CDATA[%]]></Sign></Signs>
+        </Measure>
+        <Name ID="2937" langid="1" Value="Operating relative humidity (H-H)"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241811131" Local_ID="0" Value="N" CategoryFeature_ID="150573" CategoryFeatureGroup_ID="16263" No="100100" Presentation_Value="N" Translated="1" Mandatory="1" Searchable="0">
+      <LocalValue Value="N">
+      <Measure ID="26">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="24485">
+        <Measure ID="26" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="2020483" langid="1" Value="Computer system"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810932" Local_ID="0" Value="2192.02" CategoryFeature_ID="87011" CategoryFeatureGroup_ID="10073" No="100025" Presentation_Value="2192 mm" Translated="0" Mandatory="1" Searchable="0">
+      <LocalValue Value="2192">
+      <Measure ID="24">
+        <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1649">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="5143" langid="1" Value="Width"/>
+      </Feature>
+    </ProductFeature>
+
+
+
+
+
+
+
+
+
+
+
+    <ProductFeature Localized="0" ID="241810955" Local_ID="0" Value="71.12" CategoryFeature_ID="87012" CategoryFeatureGroup_ID="10073" No="100024" Presentation_Value="71.1 mm" Translated="0" Mandatory="1" Searchable="0">
+      <LocalValue Value="71.1">
+      <Measure ID="24">
+        <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1650">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="5145" langid="1" Value="Depth"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241810944" Local_ID="0" Value="1249.68" CategoryFeature_ID="87013" CategoryFeatureGroup_ID="10073" No="100023" Presentation_Value="1249.7 mm" Translated="0" Mandatory="1" Searchable="0">
+      <LocalValue Value="1249.7">
+      <Measure ID="24">
+        <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="1464">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="4625" langid="1" Value="Height"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241811006" Local_ID="0" Value="2453.64" CategoryFeature_ID="87036" CategoryFeatureGroup_ID="10078" No="99989" Presentation_Value="2453.6 mm" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="2453.6">
+      <Measure ID="24">
+        <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="3808">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="44095" langid="1" Value="Package width"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241811027" Local_ID="0" Value="604.52" CategoryFeature_ID="87037" CategoryFeatureGroup_ID="10078" No="99988" Presentation_Value="604.5 mm" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="604.5">
+      <Measure ID="24">
+        <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="3806">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="44061" langid="1" Value="Package depth"/>
+      </Feature>
+    </ProductFeature>
+
+    <ProductFeature Localized="0" ID="241811019" Local_ID="0" Value="1480.82" CategoryFeature_ID="87038" CategoryFeatureGroup_ID="10078" No="99987" Presentation_Value="1480.8 mm" Translated="0" Mandatory="0" Searchable="0">
+      <LocalValue Value="1480.8">
+      <Measure ID="24">
+        <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+      </Measure>
+    </LocalValue>
+      <Feature ID="3807">
+        <Measure ID="24" Sign="">
+          <Signs><Sign ID="3" langid="1"><![CDATA[mm]]></Sign></Signs>
+        </Measure>
+        <Name ID="44078" langid="1" Value="Package height"/>
+      </Feature>
+    </ProductFeature>
+
+
+
+
+
+
+
+
+
+
+    <ProductFeature Localized="0" ID="241810525" Local_ID="0" Value="1.2" CategoryFeature_ID="103974" CategoryFeatureGroup_ID="10871" No="100000" Presentation_Value="1.2" Translated="1" Mandatory="0" Searchable="0">
+      <LocalValue Value="1.2">
+      <Measure ID="29">
+        <Signs/>
+      </Measure>
+    </LocalValue>
+      <Feature ID="11111">
+        <Measure ID="29" Sign="">
+          <Signs/>
+        </Measure>
+        <Name ID="973870" langid="1" Value="DisplayPort version"/>
+      </Feature>
+    </ProductFeature>
+
+   <ProductGallery>
+     <ProductPicture IsMain="Y" LowPic="http://images.icecat.biz/img/gallery_lows/34524578_5697616821.jpg" LowPicHeight="200" LowPicWidth="200" LowSize="35923" No="1" Original="http://images.icecat.biz/img/gallery_raw/34524578_5697616821.jpeg" OriginalSize="208276" Pic="http://images.icecat.biz/img/gallery/34524578_5697616821.jpg" Pic500x500="http://images.icecat.biz/img/gallery_mediums/34524578_5697616821.jpg" Pic500x500Height="500" Pic500x500Size="196208" Pic500x500Width="500" PicHeight="600" PicWidth="600" ProductPicture_ID="20789988" Size="218458" Source="http://www.samsung.com/us/system/consumer/product/lh/98/qm/lh98qmfplgcgo/600_QM98F_001_Front.jpg" ThumbPic="http://images.icecat.biz/img/gallery_thumbs/34524578_5697616821.jpg" ThumbSize="2206" Type="ProductImage"/>
+     <ProductPicture LowPic="" LowPicHeight="0" LowPicWidth="0" LowSize="0" No="999" Original="" OriginalSize="0" Pic="http://images.icecat.biz/img/feature_logo/4-8210.png" Pic500x500="" Pic500x500Height="0" Pic500x500Size="0" Pic500x500Width="0" PicHeight="200" PicWidth="195" ProductPicture_ID="8589934594" Size="35338" ThumbPic="http://images.icecat.biz/img/feature_logo_thumbs/4-8210.png" ThumbSize="0" Type="FeatureLogo" langid="1"/>
+     <ProductPicture LowPic="" LowPicHeight="0" LowPicWidth="0" LowSize="0" No="999" Original="" OriginalSize="0" Pic="http://images.icecat.biz/img/feature_logo/8-2276.png" Pic500x500="" Pic500x500Height="0" Pic500x500Size="0" Pic500x500Width="0" PicHeight="200" PicWidth="200" ProductPicture_ID="8589934598" Size="28431" ThumbPic="http://images.icecat.biz/img/feature_logo_thumbs/8-2276.png" ThumbSize="0" Type="FeatureLogo" langid="1"/>
+   </ProductGallery>
+   <ProductMultimediaObject/>
+   	  <ProductRelated ID="0" Category_ID="4005" Reversed="0" Preferred="0">
+	    <Product ID="30448426" Prod_id="WIPG-2000" ThumbPic="http://inishop.com/img/gallery_thumbs/30448426_9757.jpg" Name="WiPG-2000">
+	      <Supplier ID="14474" Name="wePresent"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="0" Category_ID="1347" Reversed="0" Preferred="0">
+	    <Product ID="32293602" Prod_id="PLASMA-M3000E" ThumbPic="http://images.icecat.biz/img/gallery_thumbs/32293602_9874.jpg" Name="PLASMA-M3000E">
+	      <Supplier ID="290" Name="Newstar"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="0" Category_ID="1056" Reversed="0" Preferred="0">
+	    <Product ID="30303986" Prod_id="LFD-W2000" ThumbPic="http://images.icecat.biz/img/gallery_thumbs/30303986_9744.jpg" Name="LFD-W2000">
+	      <Supplier ID="290" Name="Newstar"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="0" Category_ID="1056" Reversed="0" Preferred="0">
+	    <Product ID="32583732" Prod_id="LFD-W1500" ThumbPic="http://images.icecat.biz/img/gallery_thumbs/32583732_3147.jpg" Name="LFD-W1500">
+	      <Supplier ID="290" Name="Newstar"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="0" Category_ID="4005" Reversed="0" Preferred="0">
+	    <Product ID="30448424" Prod_id="WIPG-1000" ThumbPic="http://inishop.com/img/gallery_thumbs/30448424_0970.jpg" Name="WiPG-1000">
+	      <Supplier ID="14474" Name="wePresent"/>
+	    </Product>
+	  </ProductRelated>
+	  <ProductRelated ID="0" Category_ID="4005" Reversed="0" Preferred="0">
+	    <Product ID="30448425" Prod_id="WIPG-1500" ThumbPic="http://inishop.com/img/gallery_thumbs/30448425_0866.jpg" Name="WiPG-1500">
+	      <Supplier ID="14474" Name="wePresent"/>
+	    </Product>
+	  </ProductRelated>
+
+   
+   
+<SummaryDescription>
+<ShortSummaryDescription langid="1">Samsung QM98F, 2.49 m (98&quot;), LED, 3840 x 2160 pixels, 500 cd/m², 4K Ultra HD, 8 ms</ShortSummaryDescription>
+<LongSummaryDescription langid="1">Samsung QM98F. Display diagonal: 2.49 m (98&quot;), Display type: LED, Display resolution: 3840 x 2160 pixels. RMS rated power: 20 W. Design: Digital signage flat panel, Colour of product: Black, VESA mounting interfaces: 900 x 600 mm. AC input voltage: 100 - 240, AC input frequency: 50/60, Power consumption (sleep): 0.5 W. Width: 2192 mm, Depth: 71.1 mm, Height: 1249.7 mm</LongSummaryDescription>
+</SummaryDescription>
+
+   <Supplier ID="26" Name="Samsung"/>
+   </Product>
+</ICECAT-interface>

@@ -1,0 +1,27 @@
+text_title = Icecat
+text_information = Veuillez sélectionner une option.<br><strong>Note</strong> : Insérer votre ean ou sku + marque (important) pour créer votre produit
+text_ean = EAN
+text_sku = SKU
+text_brand = Marque
+text_icecat = Icecat
+text_information_option = Sélectionner vos options
+text_select_category_name = Catégories
+text_select_dimension_height = Hauteur
+text_select_dimension_depth = Profondeur
+text_select_dimension_width = Largeur
+text_select_dimension_weight = Poids
+text_select_dimension_type = Type dimension
+text_select_summary_description = Résumé description
+
+text_select_manufacturers = Marque
+text_select_manufacturers_url = URL marque
+text_select_release_date = Date sortie
+text_select_warrantly = Garantie
+text_select_pdf_manual = lien Manuel Pdf
+text_select_pdf_url = URL pdf
+text_select_logo_image = Image certification
+text_select_logo_image_description = Description image certification
+text_select_product_option = Options produits
+
+button_preview = Prévisualiser
+button_create = Créer
